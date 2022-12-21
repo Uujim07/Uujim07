@@ -106,12 +106,12 @@
 
 <li>
 <a href="mailto:uujim100501@gmail.com" target="_blank">
-<img src="https://img.shields.io/badge/gmail:  0xabdulkhalid-%23EA4335.svg?style=for-the-badge&logo=gmail&logoColor=white" t=mail style="margin-bottom: 5px;" />
+<img src="https://img.shields.io/badge/gmail:  Uujim-%23EA4335.svg?style=for-the-badge&logo=gmail&logoColor=white" t=mail style="margin-bottom: 5px;" />
 </a>
 </li>
 <li>
 <a href="https://instagram.com/uujim05_" target="_blank">
-<img src="https://img.shields.io/badge/instagram:  0xabdulkhalid-%2300acee.svg?color=F21DA1&style=for-the-badge&logo=instagram&logoColor=white" alt=twitter style="margin-bottom: 5px;"/>
+<img src="https://img.shields.io/badge/instagram:  Uujim-%2300acee.svg?color=F21DA1&style=for-the-badge&logo=instagram&logoColor=white" alt=twitter style="margin-bottom: 5px;"/>
 </a>
 </li>
 	
