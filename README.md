@@ -111,7 +111,7 @@
 </li>
 <li>
 <a href="https://instagram.com/uujim05_" target="_blank">
-<img src="https://img.shields.io/badge/twitter:  0xabdulkhalid-%2300acee.svg?color=1DA1F2&style=for-the-badge&logo=instagram&logoColor=white" alt=twitter style="margin-bottom: 5px;"/>
+<img src="https://img.shields.io/badge/instagram:  0xabdulkhalid-%2300acee.svg?color=F21DA1&style=for-the-badge&logo=instagram&logoColor=white" alt=twitter style="margin-bottom: 5px;"/>
 </a>
 </li>
 	
